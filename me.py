@@ -1,9 +1,11 @@
 import time
 import requests
 #
+#This module monitors ds.log and sends any new messages to Telegram
+#
 #Constants defined here
 #
-LOG_FILENAME = '/home/pi/ds.log'
+LOG_FILENAME = '/home/pi/gdm/ds.log'
 MESSAGE_TIMER = 2		#don't process times older than x minutes
 
 #variables defined here
@@ -14,6 +16,8 @@ new_message_count      = 0
 message_time	= 0.0
 current_message = '' 
 
+#
+#
 #
 #Function definitions start here
 #
