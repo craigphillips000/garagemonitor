@@ -1,0 +1,1 @@
+https://api.telegram.org/bot199012095:AAGD0Mu1pV4GRAyBSN_nwXLEqyop1bXPVz0/getUpdates?offset=1
