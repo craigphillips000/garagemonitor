@@ -1,1 +1,0 @@
-https://api.telegram.org/bot199012095:AAGD0Mu1pV4GRAyBSN_nwXLEqyop1bXPVz0/sendMessage?chat_id=125811912&reply_markup={"keyboard": [["Close Garage Door"], ["Get Photo"], ["Get Video"], ["Ignore"]],"one_time_keyboard": true}&parse_mode=Markdown&text=Garage Door 1 has opened. Choose an action:

@@ -5,7 +5,8 @@ import requests
 #
 #Constants defined here
 #
-LOG_FILENAME = '/home/pi/ds.log'
+LOG_FILENAME = '/home/pi/gdm/ds.log'
+TELEGRAM_URL_FILE = '/home/pi/gdm/telegram_url.txt'
 MESSAGE_TIMER = 2		#don't process times older than x minutes
 GARAGE_DOOR_1 = 1
 GARAGE_DOOR_2 = 2
@@ -17,16 +18,19 @@ previous_message_count = 0
 new_message_count      = 0
 message_time	= 0.0
 current_message = '' 
-
 #
 #Function definitions start here
 #
 def send_telegram_message(message, garage_door):
-#	r1 = requests.get('https://api.telegram.org/bot199012095:AAGD0Mu1pV4GRAyBSN_nwXLEqyop1bXPVz0/getUpdates?offset=1')
+#	r1 = requests.get('https://' + telegram_url + '/getUpdates?offset=1')
+	telegram_file = open(TELEGRAM_URL_FILE, 'a')
+	telegram_url = telegram_file.read()
 	if garage_door == GARAGE_DOOR_1:
-		message = 'https://api.telegram.org/bot199012095:AAGD0Mu1pV4GRAyBSN_nwXLEqyop1bXPVz0/sendMessage?chat_id=125811912&reply_markup={"keyboard": [["Close Garage Door 1"], ["Get Photo"], ["Get Video"], ["Ignore"]],"one_time_keyboard": true}&parse_mode=Markdown&text=' + message
+		print ("GD1 write to: " + telegram_url)
+		message = 'https://' + telegram_url + '/sendMessage?chat_id=125811912&reply_markup={"keyboard": [["Close Garage Door 1"], ["Get Photo"], ["Get Video"], ["Ignore"]],"one_time_keyboard": true}&parse_mode=Markdown&text=' + message
 	elif garage_door == GARAGE_DOOR_2:
-		message = 'https://api.telegram.org/bot199012095:AAGD0Mu1pV4GRAyBSN_nwXLEqyop1bXPVz0/sendMessage?chat_id=125811912&reply_markup={"keyboard": [["Close Garage Door 2"], ["Get Photo"], ["Get Video"], ["Ignore"]],"one_time_keyboard": true}&parse_mode=Markdown&text=' + message
+		print ("GD2 write to: " + telegram_url)
+		message = 'https://' + telegram_url + '/sendMessage?chat_id=125811912&reply_markup={"keyboard": [["Close Garage Door 2"], ["Get Photo"], ["Get Video"], ["Ignore"]],"one_time_keyboard": true}&parse_mode=Markdown&text=' + message
 	r2 = requests.post(message)
 	return r2.json()
 
