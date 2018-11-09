@@ -1,217 +1,264 @@
-1458515677.28 Sun Mar 20 23:14:37 2016: File opened.
-1458515677.29 Sun Mar 20 23:14:37 2016: Door 1 has opened.
-1458515677.29 Sun Mar 20 23:14:37 2016: Door 2 has opened.
-1458515737.29 Sun Mar 20 23:15:37 2016: Door 1 has been open for 1 minutes.
-1458515737.29 Sun Mar 20 23:15:37 2016: Door 2 has been open for 1 minutes.
-1458515797.3 Sun Mar 20 23:16:37 2016: Door 2 has been open for 2 minutes.
-1458515797.3 Sun Mar 20 23:16:37 2016: Door 1 has been open for 2 minutes.
-1458519674.35 Sun Mar 20 19:21:14 2016: File opened.
-1458519674.35 Sun Mar 20 19:21:14 2016: Door 1 has opened.
-1458519674.35 Sun Mar 20 19:21:14 2016: Door 2 has opened.
-1458519734.36 Sun Mar 20 19:22:14 2016: Door 1 has been open for 1 minutes.
-1458519734.36 Sun Mar 20 19:22:14 2016: Door 2 has been open for 1 minutes.
-1458519794.35 Sun Mar 20 19:23:14 2016: Door 1 has been open for 2 minutes.
-1458519794.36 Sun Mar 20 19:23:14 2016: Door 2 has been open for 2 minutes.
-1458519854.35 Sun Mar 20 19:24:14 2016: Door 1 has been open for 3 minutes.
-1458519854.36 Sun Mar 20 19:24:14 2016: Door 2 has been open for 3 minutes.
-1458519914.35 Sun Mar 20 19:25:14 2016: Door 1 has been open for 4 minutes.
-1458519914.36 Sun Mar 20 19:25:14 2016: Door 2 has been open for 4 minutes.
-1458519974.36 Sun Mar 20 19:26:14 2016: Door 1 has been open for 5 minutes.
-1458519974.37 Sun Mar 20 19:26:14 2016: Door 2 has been open for 5 minutes.
-1458520034.38 Sun Mar 20 19:27:14 2016: Door 2 has been open for 6 minutes.
-1458520034.38 Sun Mar 20 19:27:14 2016: Door 1 has been open for 6 minutes.
-1458520094.41 Sun Mar 20 19:28:14 2016: Door 2 has been open for 7 minutes.
-1458520094.41 Sun Mar 20 19:28:14 2016: Door 1 has been open for 7 minutes.
-1458520154.41 Sun Mar 20 19:29:14 2016: Door 1 has been open for 8 minutes.
-1458520154.41 Sun Mar 20 19:29:14 2016: Door 2 has been open for 8 minutes.
-1458520214.42 Sun Mar 20 19:30:14 2016: Door 1 has been open for 9 minutes.
-1458520214.43 Sun Mar 20 19:30:14 2016: Door 2 has been open for 9 minutes.
-1458520274.42 Sun Mar 20 19:31:14 2016: Door 1 has been open for 10 minutes.
-1458520274.43 Sun Mar 20 19:31:14 2016: Door 2 has been open for 10 minutes.
-1458520334.43 Sun Mar 20 19:32:14 2016: Door 1 has been open for 11 minutes.
-1458520334.43 Sun Mar 20 19:32:14 2016: Door 2 has been open for 11 minutes.
-1458520394.43 Sun Mar 20 19:33:14 2016: Door 1 has been open for 12 minutes.
-1458520394.44 Sun Mar 20 19:33:14 2016: Door 2 has been open for 12 minutes.
-1458520454.44 Sun Mar 20 19:34:14 2016: Door 2 has been open for 13 minutes.
-1458520454.44 Sun Mar 20 19:34:14 2016: Door 1 has been open for 13 minutes.
-1458520514.44 Sun Mar 20 19:35:14 2016: Door 2 has been open for 14 minutes.
-1458520514.45 Sun Mar 20 19:35:14 2016: Door 1 has been open for 14 minutes.
-1458520574.44 Sun Mar 20 19:36:14 2016: Door 2 has been open for 15 minutes.
-1458520574.45 Sun Mar 20 19:36:14 2016: Door 1 has been open for 15 minutes.
-1458520634.45 Sun Mar 20 19:37:14 2016: Door 1 has been open for 16 minutes.
-1458520634.46 Sun Mar 20 19:37:14 2016: Door 2 has been open for 16 minutes.
-1458520694.45 Sun Mar 20 19:38:14 2016: Door 1 has been open for 17 minutes.
-1458520694.46 Sun Mar 20 19:38:14 2016: Door 2 has been open for 17 minutes.
-1458520754.45 Sun Mar 20 19:39:14 2016: Door 1 has been open for 18 minutes.
-1458520754.46 Sun Mar 20 19:39:14 2016: Door 2 has been open for 18 minutes.
-1458520814.46 Sun Mar 20 19:40:14 2016: Door 1 has been open for 19 minutes.
-1458520814.46 Sun Mar 20 19:40:14 2016: Door 2 has been open for 19 minutes.
-1458520874.47 Sun Mar 20 19:41:14 2016: Door 1 has been open for 20 minutes.
-1458520874.48 Sun Mar 20 19:41:14 2016: Door 2 has been open for 20 minutes.
-1458520934.47 Sun Mar 20 19:42:14 2016: Door 1 has been open for 21 minutes.
-1458520934.48 Sun Mar 20 19:42:14 2016: Door 2 has been open for 21 minutes.
-1458520994.47 Sun Mar 20 19:43:14 2016: Door 1 has been open for 22 minutes.
-1458520994.48 Sun Mar 20 19:43:14 2016: Door 2 has been open for 22 minutes.
-1458521054.48 Sun Mar 20 19:44:14 2016: Door 1 has been open for 23 minutes.
-1458521054.49 Sun Mar 20 19:44:14 2016: Door 2 has been open for 23 minutes.
-1458525172.55 Sun Mar 20 20:52:52 2016: File opened.
-1458525172.55 Sun Mar 20 20:52:52 2016: Door 1 has opened.
-1458525172.55 Sun Mar 20 20:52:52 2016: Door 2 has opened.
-1458525232.55 Sun Mar 20 20:53:52 2016: Door 1 has been open for 1 minutes.
-1458525232.56 Sun Mar 20 20:53:52 2016: Door 2 has been open for 1 minutes.
-1458525292.55 Sun Mar 20 20:54:52 2016: Door 1 has been open for 2 minutes.
-1458525292.57 Sun Mar 20 20:54:52 2016: Door 2 has been open for 2 minutes.
-1458525352.55 Sun Mar 20 20:55:52 2016: Door 1 has been open for 3 minutes.
-1458525352.58 Sun Mar 20 20:55:52 2016: Door 2 has been open for 3 minutes.
-1458525412.55 Sun Mar 20 20:56:52 2016: Door 1 has been open for 4 minutes.
-1458525412.6 Sun Mar 20 20:56:52 2016: Door 2 has been open for 4 minutes.
-1458525472.56 Sun Mar 20 20:57:52 2016: Door 1 has been open for 5 minutes.
-1458525472.6 Sun Mar 20 20:57:52 2016: Door 2 has been open for 5 minutes.
-1458525532.56 Sun Mar 20 20:58:52 2016: Door 1 has been open for 6 minutes.
-1458525532.61 Sun Mar 20 20:58:52 2016: Door 2 has been open for 6 minutes.
-1458525592.56 Sun Mar 20 20:59:52 2016: Door 1 has been open for 7 minutes.
-1458525592.61 Sun Mar 20 20:59:52 2016: Door 2 has been open for 7 minutes.
-1458525652.57 Sun Mar 20 21:00:52 2016: Door 1 has been open for 8 minutes.
-1458525652.61 Sun Mar 20 21:00:52 2016: Door 2 has been open for 8 minutes.
-1458525712.57 Sun Mar 20 21:01:52 2016: Door 1 has been open for 9 minutes.
-1458525712.63 Sun Mar 20 21:01:52 2016: Door 2 has been open for 9 minutes.
-1458525772.57 Sun Mar 20 21:02:52 2016: Door 1 has been open for 10 minutes.
-1458525772.63 Sun Mar 20 21:02:52 2016: Door 2 has been open for 10 minutes.
-1458525832.57 Sun Mar 20 21:03:52 2016: Door 1 has been open for 11 minutes.
-1458525832.64 Sun Mar 20 21:03:52 2016: Door 2 has been open for 11 minutes.
-1458525892.58 Sun Mar 20 21:04:52 2016: Door 1 has been open for 12 minutes.
-1458525892.64 Sun Mar 20 21:04:52 2016: Door 2 has been open for 12 minutes.
-1458525952.59 Sun Mar 20 21:05:52 2016: Door 1 has been open for 13 minutes.
-1458525952.65 Sun Mar 20 21:05:52 2016: Door 2 has been open for 13 minutes.
-1458526012.6 Sun Mar 20 21:06:52 2016: Door 1 has been open for 14 minutes.
-1458526012.65 Sun Mar 20 21:06:52 2016: Door 2 has been open for 14 minutes.
-1458526072.61 Sun Mar 20 21:07:52 2016: Door 1 has been open for 15 minutes.
-1458526072.65 Sun Mar 20 21:07:52 2016: Door 2 has been open for 15 minutes.
-1458526132.61 Sun Mar 20 21:08:52 2016: Door 1 has been open for 16 minutes.
-1458526132.66 Sun Mar 20 21:08:52 2016: Door 2 has been open for 16 minutes.
-1458526192.62 Sun Mar 20 21:09:52 2016: Door 1 has been open for 17 minutes.
-1458526192.66 Sun Mar 20 21:09:52 2016: Door 2 has been open for 17 minutes.
-1458526252.62 Sun Mar 20 21:10:52 2016: Door 1 has been open for 18 minutes.
-1458526252.66 Sun Mar 20 21:10:52 2016: Door 2 has been open for 18 minutes.
-1458526312.62 Sun Mar 20 21:11:52 2016: Door 1 has been open for 19 minutes.
-1458526312.66 Sun Mar 20 21:11:52 2016: Door 2 has been open for 19 minutes.
-1458526372.62 Sun Mar 20 21:12:52 2016: Door 1 has been open for 20 minutes.
-1458526372.66 Sun Mar 20 21:12:52 2016: Door 2 has been open for 20 minutes.
-1458526432.63 Sun Mar 20 21:13:52 2016: Door 1 has been open for 21 minutes.
-1458526432.68 Sun Mar 20 21:13:52 2016: Door 2 has been open for 21 minutes.
-1458526492.63 Sun Mar 20 21:14:52 2016: Door 1 has been open for 22 minutes.
-1458526492.68 Sun Mar 20 21:14:52 2016: Door 2 has been open for 22 minutes.
-1458526552.63 Sun Mar 20 21:15:52 2016: Door 1 has been open for 23 minutes.
-1458526552.68 Sun Mar 20 21:15:52 2016: Door 2 has been open for 23 minutes.
-1458526612.63 Sun Mar 20 21:16:52 2016: Door 1 has been open for 24 minutes.
-1458526612.68 Sun Mar 20 21:16:52 2016: Door 2 has been open for 24 minutes.
-1458526672.63 Sun Mar 20 21:17:52 2016: Door 1 has been open for 25 minutes.
-1458526672.68 Sun Mar 20 21:17:52 2016: Door 2 has been open for 25 minutes.
-1458526732.63 Sun Mar 20 21:18:52 2016: Door 1 has been open for 26 minutes.
-1458526732.68 Sun Mar 20 21:18:52 2016: Door 2 has been open for 26 minutes.
-1458526792.63 Sun Mar 20 21:19:52 2016: Door 1 has been open for 27 minutes.
-1458526792.68 Sun Mar 20 21:19:52 2016: Door 2 has been open for 27 minutes.
-1458526852.63 Sun Mar 20 21:20:52 2016: Door 1 has been open for 28 minutes.
-1458526852.68 Sun Mar 20 21:20:52 2016: Door 2 has been open for 28 minutes.
-1458526912.63 Sun Mar 20 21:21:52 2016: Door 1 has been open for 29 minutes.
-1458526912.68 Sun Mar 20 21:21:52 2016: Door 2 has been open for 29 minutes.
-1458526972.63 Sun Mar 20 21:22:52 2016: Door 1 has been open for 30 minutes.
-1458526972.68 Sun Mar 20 21:22:52 2016: Door 2 has been open for 30 minutes.
-1458527032.64 Sun Mar 20 21:23:52 2016: Door 1 has been open for 31 minutes.
-1458527032.68 Sun Mar 20 21:23:52 2016: Door 2 has been open for 31 minutes.
-1458527092.64 Sun Mar 20 21:24:52 2016: Door 1 has been open for 32 minutes.
-1458527092.7 Sun Mar 20 21:24:52 2016: Door 2 has been open for 32 minutes.
-1458527152.64 Sun Mar 20 21:25:52 2016: Door 1 has been open for 33 minutes.
-1458527152.7 Sun Mar 20 21:25:52 2016: Door 2 has been open for 33 minutes.
-1458527212.64 Sun Mar 20 21:26:52 2016: Door 1 has been open for 34 minutes.
-1458527212.7 Sun Mar 20 21:26:52 2016: Door 2 has been open for 34 minutes.
-1458527272.65 Sun Mar 20 21:27:52 2016: Door 1 has been open for 35 minutes.
-1458527272.71 Sun Mar 20 21:27:52 2016: Door 2 has been open for 35 minutes.
-1458527332.65 Sun Mar 20 21:28:52 2016: Door 1 has been open for 36 minutes.
-1458527332.71 Sun Mar 20 21:28:52 2016: Door 2 has been open for 36 minutes.
-1458527392.65 Sun Mar 20 21:29:52 2016: Door 1 has been open for 37 minutes.
-1458527392.72 Sun Mar 20 21:29:52 2016: Door 2 has been open for 37 minutes.
-1458527452.65 Sun Mar 20 21:30:52 2016: Door 1 has been open for 38 minutes.
-1458527452.72 Sun Mar 20 21:30:52 2016: Door 2 has been open for 38 minutes.
-1458527512.66 Sun Mar 20 21:31:52 2016: Door 1 has been open for 39 minutes.
-1458527512.72 Sun Mar 20 21:31:52 2016: Door 2 has been open for 39 minutes.
-1458527572.66 Sun Mar 20 21:32:52 2016: Door 1 has been open for 40 minutes.
-1458527572.73 Sun Mar 20 21:32:52 2016: Door 2 has been open for 40 minutes.
-1458527653.13 Sun Mar 20 21:34:13 2016: File opened.
-1458527653.15 Sun Mar 20 21:34:13 2016: Door 1 has opened.
-1458527653.16 Sun Mar 20 21:34:13 2016: Door 2 has opened.
-1458527713.16 Sun Mar 20 21:35:13 2016: Door 1 has been open for 1 minutes.
-1458527713.16 Sun Mar 20 21:35:13 2016: Door 2 has been open for 1 minutes.
-1458527773.16 Sun Mar 20 21:36:13 2016: Door 1 has been open for 2 minutes.
-1458527773.17 Sun Mar 20 21:36:13 2016: Door 2 has been open for 2 minutes.
-1458527833.16 Sun Mar 20 21:37:13 2016: Door 1 has been open for 3 minutes.
-1458527833.17 Sun Mar 20 21:37:13 2016: Door 2 has been open for 3 minutes.
-1458527893.16 Sun Mar 20 21:38:13 2016: Door 1 has been open for 4 minutes.
-1458527893.17 Sun Mar 20 21:38:13 2016: Door 2 has been open for 4 minutes.
-1458527953.16 Sun Mar 20 21:39:13 2016: Door 1 has been open for 5 minutes.
-1458527953.17 Sun Mar 20 21:39:13 2016: Door 2 has been open for 5 minutes.
-1458528013.16 Sun Mar 20 21:40:13 2016: Door 1 has been open for 6 minutes.
-1458528013.17 Sun Mar 20 21:40:13 2016: Door 2 has been open for 6 minutes.
-1458528073.16 Sun Mar 20 21:41:13 2016: Door 1 has been open for 7 minutes.
-1458528073.19 Sun Mar 20 21:41:13 2016: Door 2 has been open for 7 minutes.
-1458528133.17 Sun Mar 20 21:42:13 2016: Door 1 has been open for 8 minutes.
-1458528133.2 Sun Mar 20 21:42:13 2016: Door 2 has been open for 8 minutes.
-1458528193.18 Sun Mar 20 21:43:13 2016: Door 1 has been open for 9 minutes.
-1458528193.2 Sun Mar 20 21:43:13 2016: Door 2 has been open for 9 minutes.
-1458528253.18 Sun Mar 20 21:44:13 2016: Door 1 has been open for 10 minutes.
-1458528253.2 Sun Mar 20 21:44:13 2016: Door 2 has been open for 10 minutes.
-1458528313.18 Sun Mar 20 21:45:13 2016: Door 1 has been open for 11 minutes.
-1458528313.21 Sun Mar 20 21:45:13 2016: Door 2 has been open for 11 minutes.
-1458528373.2 Sun Mar 20 21:46:13 2016: Door 1 has been open for 12 minutes.
-1458528373.22 Sun Mar 20 21:46:13 2016: Door 2 has been open for 12 minutes.
-1458528433.2 Sun Mar 20 21:47:13 2016: Door 1 has been open for 13 minutes.
-1458528433.22 Sun Mar 20 21:47:13 2016: Door 2 has been open for 13 minutes.
-1458528493.2 Sun Mar 20 21:48:13 2016: Door 1 has been open for 14 minutes.
-1458528493.22 Sun Mar 20 21:48:13 2016: Door 2 has been open for 14 minutes.
-1458528553.2 Sun Mar 20 21:49:13 2016: Door 1 has been open for 15 minutes.
-1458528553.22 Sun Mar 20 21:49:13 2016: Door 2 has been open for 15 minutes.
-1458528613.2 Sun Mar 20 21:50:13 2016: Door 1 has been open for 16 minutes.
-1458528613.22 Sun Mar 20 21:50:13 2016: Door 2 has been open for 16 minutes.
-1458528673.2 Sun Mar 20 21:51:13 2016: Door 1 has been open for 17 minutes.
-1458528673.22 Sun Mar 20 21:51:13 2016: Door 2 has been open for 17 minutes.
-1458528733.2 Sun Mar 20 21:52:13 2016: Door 1 has been open for 18 minutes.
-1458528733.22 Sun Mar 20 21:52:13 2016: Door 2 has been open for 18 minutes.
-1458529558.1 Sun Mar 20 22:05:58 2016: 0 File opened.
-1458529558.12 Sun Mar 20 22:05:58 2016: 1 Door 1 has opened.
-1458529558.12 Sun Mar 20 22:05:58 2016: 2 Door 2 has opened.
-1458529618.13 Sun Mar 20 22:06:58 2016: 1 Door 1 has been open for 1 minutes.
-1458529618.14 Sun Mar 20 22:06:58 2016: 2 Door 2 has been open for 1 minutes.
-1458529660.03 0 Sun Mar 20 22:07:40 2016: File opened.
-1458529660.04 1 Sun Mar 20 22:07:40 2016: Door 1 has opened.
-1458529660.04 2 Sun Mar 20 22:07:40 2016: Door 2 has opened.
-1458531358.19 0 Sun Mar 20 22:35:58 2016: File opened.
-1458531358.19 1 Sun Mar 20 22:35:58 2016: Door 1 has opened.
-1458531358.2 2 Sun Mar 20 22:35:58 2016: Door 2 has opened.
-1458531418.2 1 Sun Mar 20 22:36:58 2016: Door 1 has been open for 1 minutes.
-1458531418.2 2 Sun Mar 20 22:36:58 2016: Door 2 has been open for 1 minutes.
-1458531695.06 0 Sun Mar 20 22:41:35 2016: File opened.
-1458531705.07 1 Sun Mar 20 22:41:45 2016: Door 1 has opened.
-1458531705.07 2 Sun Mar 20 22:41:45 2016: Door 2 has opened.
-1458531765.13 1 Sun Mar 20 22:42:45 2016: Door 1 has been open for 1 minutes.
-1458531765.13 2 Sun Mar 20 22:42:45 2016: Door 2 has been open for 1 minutes.
-1458531825.19 1 Sun Mar 20 22:43:45 2016: Door 1 has been open for 2 minutes.
-1458531825.19 2 Sun Mar 20 22:43:45 2016: Door 2 has been open for 2 minutes.
-1458531876.71 0 Sun Mar 20 22:44:36 2016: File opened.
-1458531886.71 1 Sun Mar 20 22:44:46 2016: Door 1 has opened.
-1458531886.71 2 Sun Mar 20 22:44:46 2016: Door 2 has opened.
-1458531946.77 1 Sun Mar 20 22:45:46 2016: Door 1 has been open for 1 minutes.
-1458531946.77 2 Sun Mar 20 22:45:46 2016: Door 2 has been open for 1 minutes.
-1458532006.83 1 Sun Mar 20 22:46:46 2016: Door 1 has been open for 2 minutes.
-1458532006.83 2 Sun Mar 20 22:46:46 2016: Door 2 has been open for 2 minutes.
-1458532066.89 1 Sun Mar 20 22:47:46 2016: Door 1 has been open for 3 minutes.
-1458532066.89 2 Sun Mar 20 22:47:46 2016: Door 2 has been open for 3 minutes.
-1458532126.95 1 Sun Mar 20 22:48:46 2016: Door 1 has been open for 4 minutes.
-1458532126.95 2 Sun Mar 20 22:48:46 2016: Door 2 has been open for 4 minutes.
-1458532187.0 1 Sun Mar 20 22:49:46 2016: Door 1 has been open for 5 minutes.
-1458532187.0 2 Sun Mar 20 22:49:47 2016: Door 2 has been open for 5 minutes.
-1458532247.06 1 Sun Mar 20 22:50:47 2016: Door 1 has been open for 6 minutes.
-1458532247.06 2 Sun Mar 20 22:50:47 2016: Door 2 has been open for 6 minutes.
-1458532307.12 1 Sun Mar 20 22:51:47 2016: Door 1 has been open for 7 minutes.
-1458532307.12 2 Sun Mar 20 22:51:47 2016: Door 2 has been open for 7 minutes.
-1458532367.18 1 Sun Mar 20 22:52:47 2016: Door 1 has been open for 8 minutes.
-1458532367.18 2 Sun Mar 20 22:52:47 2016: Door 2 has been open for 8 minutes.
+1541787666.57 0 Fri Nov  9 12:21:06 2018: File opened.
+1541787676.58 1 Fri Nov  9 12:21:16 2018: Door 1 has opened.
+1541787676.58 2 Fri Nov  9 12:21:16 2018: Door 2 has opened.
+1541787736.64 1 Fri Nov  9 12:22:16 2018: Door 1 has been open for 1 minutes.
+1541787736.64 2 Fri Nov  9 12:22:16 2018: Door 2 has been open for 1 minutes.
+1541787796.69 1 Fri Nov  9 12:23:16 2018: Door 1 has been open for 2 minutes.
+1541787796.69 2 Fri Nov  9 12:23:16 2018: Door 2 has been open for 2 minutes.
+1541787856.75 1 Fri Nov  9 12:24:16 2018: Door 1 has been open for 3 minutes.
+1541787856.76 2 Fri Nov  9 12:24:16 2018: Door 2 has been open for 3 minutes.
+1541787916.81 1 Fri Nov  9 12:25:16 2018: Door 1 has been open for 4 minutes.
+1541787916.81 2 Fri Nov  9 12:25:16 2018: Door 2 has been open for 4 minutes.
+1541787976.88 1 Fri Nov  9 12:26:16 2018: Door 1 has been open for 5 minutes.
+1541787976.88 2 Fri Nov  9 12:26:16 2018: Door 2 has been open for 5 minutes.
+1541788036.94 1 Fri Nov  9 12:27:16 2018: Door 1 has been open for 6 minutes.
+1541788036.94 2 Fri Nov  9 12:27:16 2018: Door 2 has been open for 6 minutes.
+1541788097.0 1 Fri Nov  9 12:28:17 2018: Door 1 has been open for 7 minutes.
+1541788097.01 2 Fri Nov  9 12:28:17 2018: Door 2 has been open for 7 minutes.
+1541788157.06 1 Fri Nov  9 12:29:17 2018: Door 1 has been open for 8 minutes.
+1541788157.07 2 Fri Nov  9 12:29:17 2018: Door 2 has been open for 8 minutes.
+1541788217.12 1 Fri Nov  9 12:30:17 2018: Door 1 has been open for 9 minutes.
+1541788217.13 2 Fri Nov  9 12:30:17 2018: Door 2 has been open for 9 minutes.
+1541788277.19 1 Fri Nov  9 12:31:17 2018: Door 1 has been open for 10 minutes.
+1541788277.19 2 Fri Nov  9 12:31:17 2018: Door 2 has been open for 10 minutes.
+1541788337.25 1 Fri Nov  9 12:32:17 2018: Door 1 has been open for 11 minutes.
+1541788337.26 2 Fri Nov  9 12:32:17 2018: Door 2 has been open for 11 minutes.
+1541788397.31 1 Fri Nov  9 12:33:17 2018: Door 1 has been open for 12 minutes.
+1541788397.31 2 Fri Nov  9 12:33:17 2018: Door 2 has been open for 12 minutes.
+1541788457.37 1 Fri Nov  9 12:34:17 2018: Door 1 has been open for 13 minutes.
+1541788457.38 2 Fri Nov  9 12:34:17 2018: Door 2 has been open for 13 minutes.
+1541788517.43 1 Fri Nov  9 12:35:17 2018: Door 1 has been open for 14 minutes.
+1541788517.44 2 Fri Nov  9 12:35:17 2018: Door 2 has been open for 14 minutes.
+1541788577.49 1 Fri Nov  9 12:36:17 2018: Door 1 has been open for 15 minutes.
+1541788577.5 2 Fri Nov  9 12:36:17 2018: Door 2 has been open for 15 minutes.
+1541788637.55 1 Fri Nov  9 12:37:17 2018: Door 1 has been open for 16 minutes.
+1541788637.56 2 Fri Nov  9 12:37:17 2018: Door 2 has been open for 16 minutes.
+1541788697.61 1 Fri Nov  9 12:38:17 2018: Door 1 has been open for 17 minutes.
+1541788697.61 2 Fri Nov  9 12:38:17 2018: Door 2 has been open for 17 minutes.
+1541788757.67 1 Fri Nov  9 12:39:17 2018: Door 1 has been open for 18 minutes.
+1541788757.67 2 Fri Nov  9 12:39:17 2018: Door 2 has been open for 18 minutes.
+1541788817.73 1 Fri Nov  9 12:40:17 2018: Door 1 has been open for 19 minutes.
+1541788817.74 2 Fri Nov  9 12:40:17 2018: Door 2 has been open for 19 minutes.
+1541788877.79 1 Fri Nov  9 12:41:17 2018: Door 1 has been open for 20 minutes.
+1541788877.8 2 Fri Nov  9 12:41:17 2018: Door 2 has been open for 20 minutes.
+1541788937.86 1 Fri Nov  9 12:42:17 2018: Door 1 has been open for 21 minutes.
+1541788937.86 2 Fri Nov  9 12:42:17 2018: Door 2 has been open for 21 minutes.
+1541788997.92 1 Fri Nov  9 12:43:17 2018: Door 1 has been open for 22 minutes.
+1541788997.93 2 Fri Nov  9 12:43:17 2018: Door 2 has been open for 22 minutes.
+1541789057.98 1 Fri Nov  9 12:44:17 2018: Door 1 has been open for 23 minutes.
+1541789057.99 2 Fri Nov  9 12:44:17 2018: Door 2 has been open for 23 minutes.
+1541789118.04 1 Fri Nov  9 12:45:18 2018: Door 1 has been open for 24 minutes.
+1541789118.05 2 Fri Nov  9 12:45:18 2018: Door 2 has been open for 24 minutes.
+1541789178.1 1 Fri Nov  9 12:46:18 2018: Door 1 has been open for 25 minutes.
+1541789178.1 2 Fri Nov  9 12:46:18 2018: Door 2 has been open for 25 minutes.
+1541789238.16 1 Fri Nov  9 12:47:18 2018: Door 1 has been open for 26 minutes.
+1541789238.16 2 Fri Nov  9 12:47:18 2018: Door 2 has been open for 26 minutes.
+1541789298.21 1 Fri Nov  9 12:48:18 2018: Door 1 has been open for 27 minutes.
+1541789298.22 2 Fri Nov  9 12:48:18 2018: Door 2 has been open for 27 minutes.
+1541789358.27 1 Fri Nov  9 12:49:18 2018: Door 1 has been open for 28 minutes.
+1541789358.28 2 Fri Nov  9 12:49:18 2018: Door 2 has been open for 28 minutes.
+1541789418.34 1 Fri Nov  9 12:50:18 2018: Door 1 has been open for 29 minutes.
+1541789418.34 2 Fri Nov  9 12:50:18 2018: Door 2 has been open for 29 minutes.
+1541789478.4 1 Fri Nov  9 12:51:18 2018: Door 1 has been open for 30 minutes.
+1541789478.41 2 Fri Nov  9 12:51:18 2018: Door 2 has been open for 30 minutes.
+1541789538.46 1 Fri Nov  9 12:52:18 2018: Door 1 has been open for 31 minutes.
+1541789538.47 2 Fri Nov  9 12:52:18 2018: Door 2 has been open for 31 minutes.
+1541789598.52 1 Fri Nov  9 12:53:18 2018: Door 1 has been open for 32 minutes.
+1541789598.52 2 Fri Nov  9 12:53:18 2018: Door 2 has been open for 32 minutes.
+1541789658.58 1 Fri Nov  9 12:54:18 2018: Door 1 has been open for 33 minutes.
+1541789658.58 2 Fri Nov  9 12:54:18 2018: Door 2 has been open for 33 minutes.
+1541789718.64 1 Fri Nov  9 12:55:18 2018: Door 1 has been open for 34 minutes.
+1541789718.64 2 Fri Nov  9 12:55:18 2018: Door 2 has been open for 34 minutes.
+1541789778.7 1 Fri Nov  9 12:56:18 2018: Door 1 has been open for 35 minutes.
+1541789778.7 2 Fri Nov  9 12:56:18 2018: Door 2 has been open for 35 minutes.
+1541789838.77 1 Fri Nov  9 12:57:18 2018: Door 1 has been open for 36 minutes.
+1541789838.77 2 Fri Nov  9 12:57:18 2018: Door 2 has been open for 36 minutes.
+1541789898.81 1 Fri Nov  9 12:58:18 2018: Door 1 has been open for 37 minutes.
+1541789898.81 2 Fri Nov  9 12:58:18 2018: Door 2 has been open for 37 minutes.
+1541789958.87 1 Fri Nov  9 12:59:18 2018: Door 1 has been open for 38 minutes.
+1541789958.87 2 Fri Nov  9 12:59:18 2018: Door 2 has been open for 38 minutes.
+1541790018.94 1 Fri Nov  9 13:00:18 2018: Door 1 has been open for 39 minutes.
+1541790018.94 2 Fri Nov  9 13:00:18 2018: Door 2 has been open for 39 minutes.
+1541790078.99 1 Fri Nov  9 13:01:18 2018: Door 1 has been open for 40 minutes.
+1541790079.0 2 Fri Nov  9 13:01:18 2018: Door 2 has been open for 40 minutes.
+1541790139.05 1 Fri Nov  9 13:02:19 2018: Door 1 has been open for 41 minutes.
+1541790139.06 2 Fri Nov  9 13:02:19 2018: Door 2 has been open for 41 minutes.
+1541790199.11 1 Fri Nov  9 13:03:19 2018: Door 1 has been open for 42 minutes.
+1541790199.12 2 Fri Nov  9 13:03:19 2018: Door 2 has been open for 42 minutes.
+1541790259.17 1 Fri Nov  9 13:04:19 2018: Door 1 has been open for 43 minutes.
+1541790259.17 2 Fri Nov  9 13:04:19 2018: Door 2 has been open for 43 minutes.
+1541790319.23 1 Fri Nov  9 13:05:19 2018: Door 1 has been open for 44 minutes.
+1541790319.24 2 Fri Nov  9 13:05:19 2018: Door 2 has been open for 44 minutes.
+1541790379.29 1 Fri Nov  9 13:06:19 2018: Door 1 has been open for 45 minutes.
+1541790379.3 2 Fri Nov  9 13:06:19 2018: Door 2 has been open for 45 minutes.
+1541790439.36 1 Fri Nov  9 13:07:19 2018: Door 1 has been open for 46 minutes.
+1541790439.36 2 Fri Nov  9 13:07:19 2018: Door 2 has been open for 46 minutes.
+1541790499.42 1 Fri Nov  9 13:08:19 2018: Door 1 has been open for 47 minutes.
+1541790499.42 2 Fri Nov  9 13:08:19 2018: Door 2 has been open for 47 minutes.
+1541790559.48 1 Fri Nov  9 13:09:19 2018: Door 1 has been open for 48 minutes.
+1541790559.49 2 Fri Nov  9 13:09:19 2018: Door 2 has been open for 48 minutes.
+1541790619.54 1 Fri Nov  9 13:10:19 2018: Door 1 has been open for 49 minutes.
+1541790619.54 2 Fri Nov  9 13:10:19 2018: Door 2 has been open for 49 minutes.
+1541790679.6 1 Fri Nov  9 13:11:19 2018: Door 1 has been open for 50 minutes.
+1541790679.61 2 Fri Nov  9 13:11:19 2018: Door 2 has been open for 50 minutes.
+1541790739.66 1 Fri Nov  9 13:12:19 2018: Door 1 has been open for 51 minutes.
+1541790739.66 2 Fri Nov  9 13:12:19 2018: Door 2 has been open for 51 minutes.
+1541790799.72 1 Fri Nov  9 13:13:19 2018: Door 1 has been open for 52 minutes.
+1541790799.73 2 Fri Nov  9 13:13:19 2018: Door 2 has been open for 52 minutes.
+1541790859.79 1 Fri Nov  9 13:14:19 2018: Door 1 has been open for 53 minutes.
+1541790859.79 2 Fri Nov  9 13:14:19 2018: Door 2 has been open for 53 minutes.
+1541790919.85 1 Fri Nov  9 13:15:19 2018: Door 1 has been open for 54 minutes.
+1541790919.85 2 Fri Nov  9 13:15:19 2018: Door 2 has been open for 54 minutes.
+1541790979.92 1 Fri Nov  9 13:16:19 2018: Door 1 has been open for 55 minutes.
+1541790979.92 2 Fri Nov  9 13:16:19 2018: Door 2 has been open for 55 minutes.
+1541791039.97 1 Fri Nov  9 13:17:19 2018: Door 1 has been open for 56 minutes.
+1541791039.98 2 Fri Nov  9 13:17:19 2018: Door 2 has been open for 56 minutes.
+1541791100.04 1 Fri Nov  9 13:18:20 2018: Door 1 has been open for 57 minutes.
+1541791100.04 2 Fri Nov  9 13:18:20 2018: Door 2 has been open for 57 minutes.
+1541791160.09 1 Fri Nov  9 13:19:20 2018: Door 1 has been open for 58 minutes.
+1541791160.09 2 Fri Nov  9 13:19:20 2018: Door 2 has been open for 58 minutes.
+1541791220.15 1 Fri Nov  9 13:20:20 2018: Door 1 has been open for 59 minutes.
+1541791220.15 2 Fri Nov  9 13:20:20 2018: Door 2 has been open for 59 minutes.
+1541791280.21 1 Fri Nov  9 13:21:20 2018: Door 1 has been open for 60 minutes.
+1541791280.21 2 Fri Nov  9 13:21:20 2018: Door 2 has been open for 60 minutes.
+1541791340.27 1 Fri Nov  9 13:22:20 2018: Door 1 has been open for 61 minutes.
+1541791340.27 2 Fri Nov  9 13:22:20 2018: Door 2 has been open for 61 minutes.
+1541791400.33 1 Fri Nov  9 13:23:20 2018: Door 1 has been open for 62 minutes.
+1541791400.33 2 Fri Nov  9 13:23:20 2018: Door 2 has been open for 62 minutes.
+1541791460.39 1 Fri Nov  9 13:24:20 2018: Door 1 has been open for 63 minutes.
+1541791460.4 2 Fri Nov  9 13:24:20 2018: Door 2 has been open for 63 minutes.
+1541791520.45 1 Fri Nov  9 13:25:20 2018: Door 1 has been open for 64 minutes.
+1541791520.45 2 Fri Nov  9 13:25:20 2018: Door 2 has been open for 64 minutes.
+1541791580.51 1 Fri Nov  9 13:26:20 2018: Door 1 has been open for 65 minutes.
+1541791580.51 2 Fri Nov  9 13:26:20 2018: Door 2 has been open for 65 minutes.
+1541791640.57 1 Fri Nov  9 13:27:20 2018: Door 1 has been open for 66 minutes.
+1541791640.57 2 Fri Nov  9 13:27:20 2018: Door 2 has been open for 66 minutes.
+1541791700.63 1 Fri Nov  9 13:28:20 2018: Door 1 has been open for 67 minutes.
+1541791700.63 2 Fri Nov  9 13:28:20 2018: Door 2 has been open for 67 minutes.
+1541791760.68 1 Fri Nov  9 13:29:20 2018: Door 1 has been open for 68 minutes.
+1541791760.69 2 Fri Nov  9 13:29:20 2018: Door 2 has been open for 68 minutes.
+1541791820.74 1 Fri Nov  9 13:30:20 2018: Door 1 has been open for 69 minutes.
+1541791820.75 2 Fri Nov  9 13:30:20 2018: Door 2 has been open for 69 minutes.
+1541791880.8 1 Fri Nov  9 13:31:20 2018: Door 1 has been open for 70 minutes.
+1541791880.8 2 Fri Nov  9 13:31:20 2018: Door 2 has been open for 70 minutes.
+1541791940.86 1 Fri Nov  9 13:32:20 2018: Door 1 has been open for 71 minutes.
+1541791940.87 2 Fri Nov  9 13:32:20 2018: Door 2 has been open for 71 minutes.
+1541792000.93 1 Fri Nov  9 13:33:20 2018: Door 1 has been open for 72 minutes.
+1541792000.93 2 Fri Nov  9 13:33:20 2018: Door 2 has been open for 72 minutes.
+1541792060.99 1 Fri Nov  9 13:34:20 2018: Door 1 has been open for 73 minutes.
+1541792061.0 2 Fri Nov  9 13:34:20 2018: Door 2 has been open for 73 minutes.
+1541792121.05 1 Fri Nov  9 13:35:21 2018: Door 1 has been open for 74 minutes.
+1541792121.05 2 Fri Nov  9 13:35:21 2018: Door 2 has been open for 74 minutes.
+1541792181.1 1 Fri Nov  9 13:36:21 2018: Door 1 has been open for 75 minutes.
+1541792181.1 2 Fri Nov  9 13:36:21 2018: Door 2 has been open for 75 minutes.
+1541792241.17 1 Fri Nov  9 13:37:21 2018: Door 1 has been open for 76 minutes.
+1541792241.17 2 Fri Nov  9 13:37:21 2018: Door 2 has been open for 76 minutes.
+1541792301.22 1 Fri Nov  9 13:38:21 2018: Door 1 has been open for 77 minutes.
+1541792301.23 2 Fri Nov  9 13:38:21 2018: Door 2 has been open for 77 minutes.
+1541792361.28 1 Fri Nov  9 13:39:21 2018: Door 1 has been open for 78 minutes.
+1541792361.28 2 Fri Nov  9 13:39:21 2018: Door 2 has been open for 78 minutes.
+1541792421.33 1 Fri Nov  9 13:40:21 2018: Door 1 has been open for 79 minutes.
+1541792421.34 2 Fri Nov  9 13:40:21 2018: Door 2 has been open for 79 minutes.
+1541792481.39 1 Fri Nov  9 13:41:21 2018: Door 1 has been open for 80 minutes.
+1541792481.39 2 Fri Nov  9 13:41:21 2018: Door 2 has been open for 80 minutes.
+1541792541.45 1 Fri Nov  9 13:42:21 2018: Door 1 has been open for 81 minutes.
+1541792541.46 2 Fri Nov  9 13:42:21 2018: Door 2 has been open for 81 minutes.
+1541792601.51 1 Fri Nov  9 13:43:21 2018: Door 1 has been open for 82 minutes.
+1541792601.52 2 Fri Nov  9 13:43:21 2018: Door 2 has been open for 82 minutes.
+1541792661.57 1 Fri Nov  9 13:44:21 2018: Door 1 has been open for 83 minutes.
+1541792661.57 2 Fri Nov  9 13:44:21 2018: Door 2 has been open for 83 minutes.
+1541792721.63 1 Fri Nov  9 13:45:21 2018: Door 1 has been open for 84 minutes.
+1541792721.63 2 Fri Nov  9 13:45:21 2018: Door 2 has been open for 84 minutes.
+1541792781.69 1 Fri Nov  9 13:46:21 2018: Door 1 has been open for 85 minutes.
+1541792781.69 2 Fri Nov  9 13:46:21 2018: Door 2 has been open for 85 minutes.
+1541792841.74 1 Fri Nov  9 13:47:21 2018: Door 1 has been open for 86 minutes.
+1541792841.75 2 Fri Nov  9 13:47:21 2018: Door 2 has been open for 86 minutes.
+1541792901.81 1 Fri Nov  9 13:48:21 2018: Door 1 has been open for 87 minutes.
+1541792901.81 2 Fri Nov  9 13:48:21 2018: Door 2 has been open for 87 minutes.
+1541792961.87 1 Fri Nov  9 13:49:21 2018: Door 1 has been open for 88 minutes.
+1541792961.88 2 Fri Nov  9 13:49:21 2018: Door 2 has been open for 88 minutes.
+1541793021.94 1 Fri Nov  9 13:50:21 2018: Door 1 has been open for 89 minutes.
+1541793021.94 2 Fri Nov  9 13:50:21 2018: Door 2 has been open for 89 minutes.
+1541793081.98 1 Fri Nov  9 13:51:21 2018: Door 1 has been open for 90 minutes.
+1541793081.98 2 Fri Nov  9 13:51:21 2018: Door 2 has been open for 90 minutes.
+1541793142.05 1 Fri Nov  9 13:52:22 2018: Door 1 has been open for 91 minutes.
+1541793142.05 2 Fri Nov  9 13:52:22 2018: Door 2 has been open for 91 minutes.
+1541793202.11 1 Fri Nov  9 13:53:22 2018: Door 1 has been open for 92 minutes.
+1541793202.11 2 Fri Nov  9 13:53:22 2018: Door 2 has been open for 92 minutes.
+1541793262.17 1 Fri Nov  9 13:54:22 2018: Door 1 has been open for 93 minutes.
+1541793262.18 2 Fri Nov  9 13:54:22 2018: Door 2 has been open for 93 minutes.
+1541793322.23 1 Fri Nov  9 13:55:22 2018: Door 1 has been open for 94 minutes.
+1541793322.24 2 Fri Nov  9 13:55:22 2018: Door 2 has been open for 94 minutes.
+1541793382.29 1 Fri Nov  9 13:56:22 2018: Door 1 has been open for 95 minutes.
+1541793382.29 2 Fri Nov  9 13:56:22 2018: Door 2 has been open for 95 minutes.
+1541793442.35 1 Fri Nov  9 13:57:22 2018: Door 1 has been open for 96 minutes.
+1541793442.36 2 Fri Nov  9 13:57:22 2018: Door 2 has been open for 96 minutes.
+1541793502.42 1 Fri Nov  9 13:58:22 2018: Door 1 has been open for 97 minutes.
+1541793502.42 2 Fri Nov  9 13:58:22 2018: Door 2 has been open for 97 minutes.
+1541793562.47 1 Fri Nov  9 13:59:22 2018: Door 1 has been open for 98 minutes.
+1541793562.47 2 Fri Nov  9 13:59:22 2018: Door 2 has been open for 98 minutes.
+1541793622.53 1 Fri Nov  9 14:00:22 2018: Door 1 has been open for 99 minutes.
+1541793622.53 2 Fri Nov  9 14:00:22 2018: Door 2 has been open for 99 minutes.
+1541793682.59 1 Fri Nov  9 14:01:22 2018: Door 1 has been open for 100 minutes.
+1541793682.6 2 Fri Nov  9 14:01:22 2018: Door 2 has been open for 100 minutes.
+1541793742.65 1 Fri Nov  9 14:02:22 2018: Door 1 has been open for 101 minutes.
+1541793742.65 2 Fri Nov  9 14:02:22 2018: Door 2 has been open for 101 minutes.
+1541793802.7 1 Fri Nov  9 14:03:22 2018: Door 1 has been open for 102 minutes.
+1541793802.7 2 Fri Nov  9 14:03:22 2018: Door 2 has been open for 102 minutes.
+1541793862.77 1 Fri Nov  9 14:04:22 2018: Door 1 has been open for 103 minutes.
+1541793862.77 2 Fri Nov  9 14:04:22 2018: Door 2 has been open for 103 minutes.
+1541793922.82 1 Fri Nov  9 14:05:22 2018: Door 1 has been open for 104 minutes.
+1541793922.82 2 Fri Nov  9 14:05:22 2018: Door 2 has been open for 104 minutes.
+1541793982.88 1 Fri Nov  9 14:06:22 2018: Door 1 has been open for 105 minutes.
+1541793982.88 2 Fri Nov  9 14:06:22 2018: Door 2 has been open for 105 minutes.
+1541794042.94 1 Fri Nov  9 14:07:22 2018: Door 1 has been open for 106 minutes.
+1541794042.95 2 Fri Nov  9 14:07:22 2018: Door 2 has been open for 106 minutes.
+1541794103.0 1 Fri Nov  9 14:08:23 2018: Door 1 has been open for 107 minutes.
+1541794103.0 2 Fri Nov  9 14:08:23 2018: Door 2 has been open for 107 minutes.
+1541794163.06 1 Fri Nov  9 14:09:23 2018: Door 1 has been open for 108 minutes.
+1541794163.06 2 Fri Nov  9 14:09:23 2018: Door 2 has been open for 108 minutes.
+1541794223.13 1 Fri Nov  9 14:10:23 2018: Door 1 has been open for 109 minutes.
+1541794223.13 2 Fri Nov  9 14:10:23 2018: Door 2 has been open for 109 minutes.
+1541794283.18 1 Fri Nov  9 14:11:23 2018: Door 1 has been open for 110 minutes.
+1541794283.19 2 Fri Nov  9 14:11:23 2018: Door 2 has been open for 110 minutes.
+1541794343.24 1 Fri Nov  9 14:12:23 2018: Door 1 has been open for 111 minutes.
+1541794343.25 2 Fri Nov  9 14:12:23 2018: Door 2 has been open for 111 minutes.
+1541794403.31 1 Fri Nov  9 14:13:23 2018: Door 1 has been open for 112 minutes.
+1541794403.31 2 Fri Nov  9 14:13:23 2018: Door 2 has been open for 112 minutes.
+1541794463.36 1 Fri Nov  9 14:14:23 2018: Door 1 has been open for 113 minutes.
+1541794463.37 2 Fri Nov  9 14:14:23 2018: Door 2 has been open for 113 minutes.
+1541794523.43 1 Fri Nov  9 14:15:23 2018: Door 1 has been open for 114 minutes.
+1541794523.43 2 Fri Nov  9 14:15:23 2018: Door 2 has been open for 114 minutes.
+1541794583.48 1 Fri Nov  9 14:16:23 2018: Door 1 has been open for 115 minutes.
+1541794583.48 2 Fri Nov  9 14:16:23 2018: Door 2 has been open for 115 minutes.
+1541794643.54 1 Fri Nov  9 14:17:23 2018: Door 1 has been open for 116 minutes.
+1541794643.55 2 Fri Nov  9 14:17:23 2018: Door 2 has been open for 116 minutes.
+1541794703.6 1 Fri Nov  9 14:18:23 2018: Door 1 has been open for 117 minutes.
+1541794703.61 2 Fri Nov  9 14:18:23 2018: Door 2 has been open for 117 minutes.
+1541794763.66 1 Fri Nov  9 14:19:23 2018: Door 1 has been open for 118 minutes.
+1541794763.67 2 Fri Nov  9 14:19:23 2018: Door 2 has been open for 118 minutes.
+1541794823.72 1 Fri Nov  9 14:20:23 2018: Door 1 has been open for 119 minutes.
+1541794823.73 2 Fri Nov  9 14:20:23 2018: Door 2 has been open for 119 minutes.
+1541794883.79 1 Fri Nov  9 14:21:23 2018: Door 1 has been open for 120 minutes.
+1541794883.79 2 Fri Nov  9 14:21:23 2018: Door 2 has been open for 120 minutes.
+1541794943.85 1 Fri Nov  9 14:22:23 2018: Door 1 has been open for 121 minutes.
+1541794943.86 2 Fri Nov  9 14:22:23 2018: Door 2 has been open for 121 minutes.
+1541795003.92 1 Fri Nov  9 14:23:23 2018: Door 1 has been open for 122 minutes.
+1541795003.92 2 Fri Nov  9 14:23:23 2018: Door 2 has been open for 122 minutes.
+1541795063.98 1 Fri Nov  9 14:24:23 2018: Door 1 has been open for 123 minutes.
+1541795063.99 2 Fri Nov  9 14:24:23 2018: Door 2 has been open for 123 minutes.
+1541795124.05 1 Fri Nov  9 14:25:24 2018: Door 1 has been open for 124 minutes.
+1541795124.05 2 Fri Nov  9 14:25:24 2018: Door 2 has been open for 124 minutes.
+1541795184.11 1 Fri Nov  9 14:26:24 2018: Door 1 has been open for 125 minutes.
+1541795184.11 2 Fri Nov  9 14:26:24 2018: Door 2 has been open for 125 minutes.
+1541795204.13 1 Fri Nov  9 14:26:44 2018: Door 1 has closed.
+1541795214.15 1 Fri Nov  9 14:26:54 2018: Door 1 has opened.
+1541795244.18 2 Fri Nov  9 14:27:24 2018: Door 2 has been open for 126 minutes.
+1541795274.2 1 Fri Nov  9 14:27:54 2018: Door 1 has been open for 126 minutes.
+1541795304.24 2 Fri Nov  9 14:28:24 2018: Door 2 has been open for 127 minutes.
+1541795334.27 1 Fri Nov  9 14:28:54 2018: Door 1 has been open for 127 minutes.
+1541795364.3 2 Fri Nov  9 14:29:24 2018: Door 2 has been open for 128 minutes.
+1541795394.33 1 Fri Nov  9 14:29:54 2018: Door 1 has been open for 128 minutes.
+1541795424.36 2 Fri Nov  9 14:30:24 2018: Door 2 has been open for 129 minutes.
+1541795454.4 1 Fri Nov  9 14:30:54 2018: Door 1 has been open for 129 minutes.
+1541795484.43 2 Fri Nov  9 14:31:24 2018: Door 2 has been open for 130 minutes.
