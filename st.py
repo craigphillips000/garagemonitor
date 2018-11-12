@@ -27,11 +27,11 @@ def send_telegram_message(message, garage_door):
 	telegram_url = telegram_file.read()
 	if garage_door == GARAGE_DOOR_1:
 		print ("GD1 write to: " + telegram_url)
-		message = 'https://' + telegram_url + '/sendMessage?chat_id=765138485&reply_markup={"keyboard": [["Close Garage Door 1"], ["Get Photo"], ["Get Video"], ["Ignore"]],"one_time_keyboard": true}&parse_mode=Markdown&text=' + message
+		message = 'https://' + telegram_url + '/sendMessage?chat_id=765138485&reply_markup={"keyboard": [["Close Garage Door 1"], ["Close Garage Door 2"],["Get Photo"], ["Get Video"], ["Ignore"]],"one_time_keyboard": true}&parse_mode=Markdown&text=' + message
 		
 	elif garage_door == GARAGE_DOOR_2:
 		print ("GD2 write to: " + telegram_url)
-		message = 'https://' + telegram_url + '/sendMessage?chat_id=765138485&reply_markup={"keyboard": [["Close Garage Door 2"], ["Get Photo"], ["Get Video"], ["Ignore"]],"one_time_keyboard": true}&parse_mode=Markdown&text=' + message
+		message = 'https://' + telegram_url + '/sendMessage?chat_id=765138485&reply_markup={"keyboard": [["Close Garage Door 1"],["Close Garage Door 2"], ["Get Photo"], ["Get Video"], ["Ignore"]],"one_time_keyboard": true}&parse_mode=Markdown&text=' + message
 	r2 = requests.post(message)
 #	print r2
 	return r2.json()
