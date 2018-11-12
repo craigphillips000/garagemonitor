@@ -8,7 +8,7 @@ import requests
 #LOG_FILENAME = '/home/pi/gdm/ds.log'
 TELEGRAM_URL_FILE = '/home/pi/gdm/telegram_url.txt'
 UPDATEID_FILE = '/home/pi/gdm/previous_updateID.txt'
-getUpdate_TIMEOUT = 5          #long polling timeout
+getUpdate_TIMEOUT = 3          #long polling timeout
 GARAGE_DOOR_1 = 1
 GARAGE_DOOR_2 = 2
 
@@ -47,30 +47,31 @@ def put_previous_update_ID(update_ID):
 
 #read previous_updateID from file and add 1
 previous_updateID = get_previous_update_ID()
+messageText = ''
 
 #The main loop
 while True:
-
-
-	result = get_telegram_message(previous_updateID + 1)
+	previous_updateID += 1
+	result = get_telegram_message(previous_updateID)
 	for message in result['result']:
 		previous_updateID = message['update_id']
 		messageText = message['message']['text']
-		#print messageText
+		#print ("Message Text Input: ", messageText)
 
 	#print previous_updateID
 	#write update ID to file
 	put_previous_update_ID(previous_updateID)
 
 
-	if messageText != 'Ignore':
-		if messageText == 'Close Garage Door 1':
-			print messageText	
-		elif messageText == 'Close Garage Door 2':
-			print messageText
-		elif messageText == 'Get Photo':
-			print messageText	
-		else:
-			print messageText
-		
+	if messageText == 'Close Garage Door 1':
+		print messageText	
+	elif messageText == 'Close Garage Door 2':
+		print messageText
+	elif messageText == 'Get Photo':
+		print messageText	
+	elif messageText == 'Get Video':
+		print messageText	
+	elif messageText == 'Ignore' :
+		print messageText			
+	messageText = ''	
 				

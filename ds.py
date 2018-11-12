@@ -11,7 +11,7 @@ DOOR_1_SENSOR = 12
 DOOR_2_SENSOR = 13
 
 #Door open duration alarm time in minutes
-DOOR_OPEN_ALARM = 1
+DOOR_OPEN_ALARM = 5
 
 #These constants are used to evaluate the door sensors
 CLOSED = 0
