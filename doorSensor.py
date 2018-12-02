@@ -51,8 +51,7 @@ door_2_open_segment_counter = 0
 #
 def write_message_to_log(message, garage_door):
         logfile = open(LOG_FILENAME, 'a')
-        logfile.write(str(time.time()) + ' ' + str(garage_door) + ' ')
-        logfile.write(time.asctime(time.localtime(time.time())) + ': ')
+        logfile.write(str(time.time()) + ' ' + str(garage_door) + ' ' + time.asctime(time.localtime(time.time())) + ': ')
         logfile.write(message + '\n')
         logfile.close()
 	return 1

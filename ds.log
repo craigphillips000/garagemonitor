@@ -8495,3 +8495,36 @@
 1542064838.38 2 Mon Nov 12 17:20:38 2018: Door 2 has been open for 3 minutes.
 1542065018.56 1 Mon Nov 12 17:23:38 2018: Door 1 has been open for 6 minutes.
 1542065018.56 2 Mon Nov 12 17:23:38 2018: Door 2 has been open for 6 minutes.
+1543530298.53 0 Thu Nov 29 16:24:58 2018: File opened.
+1543530308.54 1 Thu Nov 29 16:25:08 2018: Door 1 has opened.
+1543530308.54 2 Thu Nov 29 16:25:08 2018: Door 2 has opened.
+1543530518.75 2 Thu Nov 29 16:28:38 2018: Door 2 has closed.
+1543530528.76 2 Thu Nov 29 16:28:48 2018: Door 2 has opened.
+1543530538.77 2 Thu Nov 29 16:28:58 2018: Door 2 has closed.
+1543530548.79 2 Thu Nov 29 16:29:08 2018: Door 2 has opened.
+1543530608.85 1 Thu Nov 29 16:30:08 2018: Door 1 has been open for 5 minutes.
+1543532198.47 0 Thu Nov 29 16:56:38 2018: File opened.
+1543532208.48 1 Thu Nov 29 16:56:48 2018: Door 1 has opened.
+1543532228.5 2 Thu Nov 29 16:57:08 2018: Door 2 has opened.
+1543532393.9 0 Thu Nov 29 16:59:53 2018: File opened.
+1543532403.91 1 Thu Nov 29 17:00:03 2018: Door 1 has opened.
+1543532403.91 2 Thu Nov 29 17:00:03 2018: Door 2 has opened.
+1543532553.97 0 Thu Nov 29 17:02:33 2018: File opened.
+1543532563.99 1 Thu Nov 29 17:02:43 2018: Door 1 has opened.
+1543532584.01 2 Thu Nov 29 17:03:04 2018: Door 2 has opened.
+1543532663.62 0 Thu Nov 29 17:04:23 2018: File opened.
+1543532673.64 1 Thu Nov 29 17:04:33 2018: Door 1 has opened.
+1543532693.66 2 Thu Nov 29 17:04:53 2018: Door 2 has opened.
+1543532713.67 2 Thu Nov 29 17:05:13 2018: Door 2 has closed.
+1543532733.69 2 Thu Nov 29 17:05:33 2018: Door 2 has opened.
+1543532783.54 0 Thu Nov 29 17:06:23 2018: File opened.
+1543532793.55 1 Thu Nov 29 17:06:33 2018: Door 1 has opened.
+1543532793.56 2 Thu Nov 29 17:06:33 2018: Door 2 has opened.
+1543532803.56 2 Thu Nov 29 17:06:43 2018: Door 2 has closed.
+1543532833.59 2 Thu Nov 29 17:07:13 2018: Door 2 has opened.1543533734.17 0 Thu Nov 29 17:22:14 2018: File opened.
+1543533744.19 1 Thu Nov 29 17:22:24 2018: Door 1 has opened.
+1543533744.19 2 Thu Nov 29 17:22:24 2018: Door 2 has opened.
+1543533774.23 2 Thu Nov 29 17:22:54 2018: Door 2 has closed.
+1543533824.27 2 Thu Nov 29 17:23:44 2018: Door 2 has opened.
+1543534044.48 1 Thu Nov 29 17:27:24 2018: Door 1 has been open for 5 minutes.
+1543534124.56 2 Thu Nov 29 17:28:44 2018: Door 2 has been open for 5 minutes.
