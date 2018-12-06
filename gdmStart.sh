@@ -1,3 +1,4 @@
-python doorSensor.py &
-python logMonitor.py &
-python actionEngine.py &
+#!/bin/sh
+python $HOME/gdm/doorSensor.py &
+python $HOME/gdm/logMonitor.py &
+python $HOME/gdm/actionEngine.py &

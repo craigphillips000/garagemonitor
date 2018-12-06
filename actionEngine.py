@@ -1,6 +1,7 @@
 import os
 import time
 import requests
+import json
 from picamera import PiCamera
 import RPi.GPIO as GPIO
 #
@@ -42,7 +43,8 @@ def get_telegram_message(next_updateID):
 	telegram_url = telegram_file.read()
 	r1 = requests.get('https://' + telegram_url + '/getUpdates?offset=' + str(next_updateID) + '&timeout=' + str(getUpdate_TIMEOUT))
 	telegram_file.close()
-	return r1.json()
+	json_data = json.loads(r1.text)
+        return json_data
 
 def get_previous_update_ID():
         updateID_file = open(UPDATEID_FILE, 'r')
