@@ -8528,3 +8528,18 @@
 1543533824.27 2 Thu Nov 29 17:23:44 2018: Door 2 has opened.
 1543534044.48 1 Thu Nov 29 17:27:24 2018: Door 1 has been open for 5 minutes.
 1543534124.56 2 Thu Nov 29 17:28:44 2018: Door 2 has been open for 5 minutes.
+1544063580.44 0 Wed Dec  5 20:33:00 2018: File opened.
+1544066902.75 0 Wed Dec  5 21:28:22 2018: File opened.
+1544066912.75 1 Wed Dec  5 21:28:32 2018: Door 1 has opened.
+1544066912.75 2 Wed Dec  5 21:28:32 2018: Door 2 has opened.
+1544067213.04 1 Wed Dec  5 21:33:33 2018: Door 1 has been open for 5 minutes.
+1544067213.04 2 Wed Dec  5 21:33:33 2018: Door 2 has been open for 5 minutes.
+1544067774.43 0 Wed Dec  5 21:42:54 2018: File opened.
+1544067784.49 1 Wed Dec  5 21:43:04 2018: Door 1 has opened.
+1544067784.49 2 Wed Dec  5 21:43:04 2018: Door 2 has opened.
+1544068385.35 1 Wed Dec  5 21:53:05 2018: Door 1 has been open for 10 minutes.
+1544068385.36 2 Wed Dec  5 21:53:05 2018: Door 2 has been open for 10 minutes.
+1544068985.95 1 Wed Dec  5 22:03:05 2018: Door 1 has been open for 20 minutes.
+1544068985.96 2 Wed Dec  5 22:03:05 2018: Door 2 has been open for 20 minutes.
+1544069586.55 1 Wed Dec  5 22:13:06 2018: Door 1 has been open for 30 minutes.
+1544069586.55 2 Wed Dec  5 22:13:06 2018: Door 2 has been open for 30 minutes.

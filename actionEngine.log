@@ -1,0 +1,37 @@
+Wed Dec  5 21:11:57 2018: Message Received: Close Garage Door 1
+Wed Dec  5 21:11:57 2018: Turned On: 1
+Wed Dec  5 21:11:59 2018: Turned Off: 1
+Wed Dec  5 21:12:14 2018: Message Received: Get Photo
+Wed Dec  5 21:12:19 2018: Image Sent: 200OK{"ok":true,"result":{"message_id":505,"from":{"id":653982692,"is_bot":true,"first_name":"gdm","username":"gdmccp_bot"},"chat":{"id":765138485,"first_name":"Craig Phillips","username":"craigphillips","type":"private"},"date":1544065939,"text":"GDM Photo: Wed Dec  5 21:12:18 2018"}}
+Wed Dec  5 21:14:34 2018: Message Received: Ignore
+Wed Dec  5 21:14:41 2018: Message Received: Close Garage Door 1
+Wed Dec  5 21:14:41 2018: Turned On: 1
+Wed Dec  5 21:14:43 2018: Turned Off: 1
+Wed Dec  5 21:14:47 2018: Message Received: Close Garage Door 2
+Wed Dec  5 21:14:47 2018: Turned On: 2
+Wed Dec  5 21:14:49 2018: Turned Off: 2
+Wed Dec  5 21:15:57 2018: Message Received: Close Garage Door 1
+Wed Dec  5 21:15:57 2018: Turned On: 1
+Wed Dec  5 21:15:59 2018: Turned Off: 1
+Wed Dec  5 21:16:01 2018: Message Received: Close Garage Door 2
+Wed Dec  5 21:16:01 2018: Turned On: 2
+Wed Dec  5 21:16:03 2018: Turned Off: 2
+Wed Dec  5 21:16:46 2018: Message Received: Get Photo
+Wed Dec  5 21:16:52 2018: Image Sent: 200OK{"ok":true,"result":{"message_id":513,"from":{"id":653982692,"is_bot":true,"first_name":"gdm","username":"gdmccp_bot"},"chat":{"id":765138485,"first_name":"Craig Phillips","username":"craigphillips","type":"private"},"date":1544066212,"text":"GDM Photo: Wed Dec  5 21:16:51 2018"}}
+Wed Dec  5 21:17:30 2018: Message Received: Get Photo
+Wed Dec  5 21:17:36 2018: Image Sent: 200OK{"ok":true,"result":{"message_id":516,"from":{"id":653982692,"is_bot":true,"first_name":"gdm","username":"gdmccp_bot"},"chat":{"id":765138485,"first_name":"Craig Phillips","username":"craigphillips","type":"private"},"date":1544066256,"text":"GDM Photo: Wed Dec  5 21:17:36 2018"}}
+Wed Dec  5 21:17:39 2018: Message Received: Get Video
+Wed Dec  5 21:26:06 2018: Message Received: Get Photo
+Wed Dec  5 21:26:12 2018: Image Sent: 200OK{"ok":true,"result":{"message_id":520,"from":{"id":653982692,"is_bot":true,"first_name":"gdm","username":"gdmccp_bot"},"chat":{"id":765138485,"first_name":"Craig Phillips","username":"craigphillips","type":"private"},"date":1544066772,"text":"GDM Photo: Wed Dec  5 21:26:11 2018"}}
+Wed Dec  5 21:26:14 2018: Message Received: Get Video
+Wed Dec  5 21:26:45 2018: Video Sent: 200OK{"ok":true,"result":{"message_id":523,"from":{"id":653982692,"is_bot":true,"first_name":"gdm","username":"gdmccp_bot"},"chat":{"id":765138485,"first_name":"Craig Phillips","username":"craigphillips","type":"private"},"date":1544066805,"text":"GDM Video: Wed Dec  5 21:26:44 2018"}}
+Wed Dec  5 21:28:56 2018: Message Received: Close Garage Door 1
+Wed Dec  5 21:28:56 2018: Turned On: 1
+Wed Dec  5 21:28:58 2018: Turned Off: 1
+Wed Dec  5 21:29:01 2018: Message Received: Close Garage Door 2
+Wed Dec  5 21:29:01 2018: Turned On: 2
+Wed Dec  5 21:29:03 2018: Turned Off: 2
+Wed Dec  5 21:29:05 2018: Message Received: Get Photo
+Wed Dec  5 21:29:11 2018: Image Sent: 200OK{"ok":true,"result":{"message_id":530,"from":{"id":653982692,"is_bot":true,"first_name":"gdm","username":"gdmccp_bot"},"chat":{"id":765138485,"first_name":"Craig Phillips","username":"craigphillips","type":"private"},"date":1544066951,"text":"GDM Photo: Wed Dec  5 21:29:11 2018"}}
+Wed Dec  5 21:29:16 2018: Message Received: Get Video
+Wed Dec  5 21:29:46 2018: Video Sent: 200OK{"ok":true,"result":{"message_id":533,"from":{"id":653982692,"is_bot":true,"first_name":"gdm","username":"gdmccp_bot"},"chat":{"id":765138485,"first_name":"Craig Phillips","username":"craigphillips","type":"private"},"date":1544066986,"text":"GDM Video: Wed Dec  5 21:29:45 2018"}}
