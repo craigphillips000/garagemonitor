@@ -9,21 +9,26 @@ import RPi.GPIO as GPIO
 #
 #Constants defined here
 #
+#Here are the files we'll use
 LOG_FILENAME = '/home/pi/gdm/actionEngine.log'
 TELEGRAM_URL_FILE = '/home/pi/gdm/telegram_url.txt'
 PHOTO_FILE = '/home/pi/gdm/images/image.jpg'
 VIDEO_FILE = '/home/pi/gdm/images/video.h264'
 CONVERTED_VIDEO_FILE = '/home/pi/gdm/images/video.mp4'
 UPDATEID_FILE = '/home/pi/gdm/previous_updateID.txt'
+#
 getUpdate_TIMEOUT = 600          #long polling timeout
 GARAGE_DOOR_1 = 1
 GARAGE_DOOR_2 = 2
+#how long do we want to record each time? (seconds)
 VIDEO_RECORDING_TIME = 10
+#Time to press switch to open garage door (seconds)
+GARAGE_DOOR_OPENER_SWITCH_TIMER = 1
+#Which GPIO ports are we using for the relays
 DOOR_1_RELAY = 17
 DOOR_2_RELAY = 18
 
 #variables defined here
-#
 #
 previous_message_count = 0
 new_message_count      = 0
@@ -77,7 +82,7 @@ def closeGarageDoor(GarageDoor):
 	#activate relay for two seconds and turn off
 	GPIO.output(DoorRelay, GPIO.LOW)
 	write_message_to_log('Turned On: ' + str(GarageDoor))
-	time.sleep(2)
+	time.sleep(GARAGE_DOOR_OPENER_SWITCH_TIMER)
 	GPIO.output(DoorRelay, GPIO.HIGH)
 	write_message_to_log('Turned Off: ' + str(GarageDoor))
 
