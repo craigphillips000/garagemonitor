@@ -44,7 +44,7 @@ def send_telegram_message(message, garage_door):
 
 #Code starts here
 #
-
+write_message_to_log('logMonitor Starting')
 
 #The main loop
 while True:

@@ -36,7 +36,7 @@ door_2_current = False
 door_1_previous_state = CLOSED
 door_2_previous_state = CLOSED
 door_1_sensor_state = CLOSED
-door_2_sensor_sate = CLOSED
+door_2_sensor_state = CLOSED
 
 #these variables track how long the door has been open in ticks(seconds)
 door_1_open_duration = time.time()
@@ -68,6 +68,22 @@ GPIO.setup(DOOR_2_SENSOR, GPIO.IN, GPIO.PUD_UP)
 #Write open message to the logfile.
 write_message_to_log('File opened.',0)
 
+#set up messages
+door_1_sensor_state = GPIO.input(DOOR_1_SENSOR)
+door_2_sensor_state = GPIO.input(DOOR_2_SENSOR)
+door_1_previous_state = door_1_sensor_state
+door_2_previous_state = door_2_sensor_state
+
+if door_1_sensor_state == OPEN:
+	write_message_to_log("doorSensorStarting: Garage Door 1 is Open", GARAGE_DOOR_1)
+else:
+	write_message_to_log("doorSensorStarting: Garage Door 1 is Closed", GARAGE_DOOR_1)
+	
+if door_2_sensor_state == OPEN:
+	write_message_to_log("doorSensorStarting: Garage Door 2 is Open", GARAGE_DOOR_2)
+else:
+	write_message_to_log("doorSensorStarting: Garage Door 2 is Closed", GARAGE_DOOR_2)
+
 #The main loop
 while True:
 
@@ -83,6 +99,7 @@ while True:
 		door_1_previous_state = door_1_sensor_state
 		if door_1_sensor_state == CLOSED:
 			write_message_to_log('Door 1 has closed.',GARAGE_DOOR_1)
+			door_1_open_segment_counter = 0
 			door_1_current = True
 		else:
 			write_message_to_log('Door 1 has opened.',GARAGE_DOOR_1)
@@ -93,6 +110,7 @@ while True:
 		door_2_previous_state = door_2_sensor_state
 		if door_2_sensor_state == CLOSED:
 			write_message_to_log('Door 2 has closed.',GARAGE_DOOR_2)
+			door_2_open_segment_counter = 0
 			door_2_current = True
 		else:
 			write_message_to_log('Door 2 has opened.',GARAGE_DOOR_2)
@@ -100,14 +118,14 @@ while True:
 			door_2_current = False
 			
 	#Check if either door open for more than door open alarm limit in minutes
-	if (time.time() - door_1_open_duration) > (DOOR_OPEN_ALARM * 60):
+	if ((time.time() - door_1_open_duration) > (DOOR_OPEN_ALARM * 60)) & (door_1_sensor_state == OPEN):
 		door_1_open_duration = time.time()
 		door_1_open_segment_counter = door_1_open_segment_counter + 1
 		write_message_to_log('Door 1 has been open for ' +
                                      str(DOOR_OPEN_ALARM * door_1_open_segment_counter) +
                                      ' minutes.',GARAGE_DOOR_1)
 	
-	if (time.time() - door_2_open_duration) > (DOOR_OPEN_ALARM * 60):
+	if ((time.time() - door_2_open_duration) > (DOOR_OPEN_ALARM * 60)) & (door_2_sensor_state == OPEN):
 		door_2_open_duration = time.time()
 		door_2_open_segment_counter = door_2_open_segment_counter + 1
 		write_message_to_log('Door 2 has been open for ' +

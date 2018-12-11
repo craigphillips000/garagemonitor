@@ -141,6 +141,8 @@ def getVideo(piCamera, recordingtime):
 #read previous_updateID from file and add 1
 previous_updateID = get_previous_update_ID()
 messageText = ''
+write_message_to_log('actionEngine Starting')
+
 
 camera=PiCamera()
 
